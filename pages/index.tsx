@@ -4,6 +4,7 @@ const HomePage = () => {
   return (
     <div>
       Welcome!!
+      <i className="uit uit-align-alt"></i>
     </div>
   )
 }
